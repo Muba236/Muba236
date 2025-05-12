@@ -1,5 +1,5 @@
 👋 Hi, I’m Mubarak
-I am a passionate software tester with 3 years of experience in the software testing field. Currently, I work at Cognizant, where I specialize in both manual and automation testing.
+I am a passionate software tester with 3.4 years of experience in the software testing field. Currently, I work at Cognizant, where I specialize in both manual and automation testing.
 
 **Skills**:
 Manual Testing: Functional testing, regression testing, exploratory testing, etc.
